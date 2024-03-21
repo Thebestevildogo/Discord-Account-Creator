@@ -10,7 +10,7 @@ addBio    = true
 
 [ data ]
 username  = "" # blank = random
-joinGuild = "vast" # invite code ~ blank = dont join
+joinGuild = "https://discord.com/invite/NbVpZj4S6r" # invite code ~ blank = dont join
 threads   = 10
 debug     = true
 showLockd = false
